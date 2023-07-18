@@ -1,4 +1,4 @@
-# GeoQuest :mag_right: 
+# GeoQuest :mag_right: :iphone:
 
 
 
