@@ -51,21 +51,21 @@ Resolución: 1440 x 3120 pixels
 
 Ram: 4 Gb
 
-## Guia de uso 
+## Guia de uso :bookmark_tabs:
 ### Requisitos de Conocimiento 
 1)	Conocimiento de uso de dispositivos móviles
 2)	Saber instalar el archivo apk
 3)	Reconocer la función de los botones
 
-### Ingresar al Videojuego
+### Ingresar al Videojuego :earth_americas:
 Ingresar en el logotipo del videojuego
 Dar clic en el botón start
 Leer las instrucciones de GeoQuest
 Al iniciar el videojuego deberás realizar un recorrido por el 1er nivel te encontrarás con personajes NPC los que te proporcionarán la trivia educativa utilizando el botón Y, Para vencer a los enemigos cuentan con el botón B y así eliminarlos.
 
 El botón pausa te permitirá salir del juego o pausarlo y regresar a jugar donde lo dejaste.
-### Comandos
 
+### Comandos :capital_abcd:
 Botones direccionales
 
 :arrow_right: Avanza hacia la derecha
@@ -76,7 +76,7 @@ Botones direccionales
 
 :arrow_down: Avanza hacia abajo
 
-    Botón Y (Trivia)
+:white_circle:  Botón Y (Trivia)
     
 :b: Botón B (Elimina enemigos)
 
