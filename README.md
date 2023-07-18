@@ -1,10 +1,10 @@
-# GeoQuest
+# GeoQuest :mag_right: 
 
 
 
 
 
-## Authors
+## Authors 
 
 - [@elycastillo30](https://www.github.com/el)
 
