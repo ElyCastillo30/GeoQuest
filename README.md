@@ -80,7 +80,7 @@ Botones direccionales
     
 :b: Botón B (Elimina enemigos)
 
-#### GeoQuest 
+#### GeoQuest :globe_with_meridians:
 
 GeoQuest permitirá que refuerces tus conocimientos
 
